@@ -1,0 +1,10 @@
+Downtown,1000 Sherbrooke,5,Pool,140
+Downtown,1200 Laval,3,Balcony,130
+Airport,499 Hue,8,Pool,100
+MontrealEast,1000 Namur,8,Balcony,70
+MontrealWest,23 Pierre,5,Minibar,90
+Downtown,25 Pesant,12,GardenFront,200
+Airport,1470 Yohan,6,Brunch,70
+Airport,55 MainStreet,6,Pool,30
+MontrealEast,10 BOB,9,Balcony,80
+MontrealWest,245 ete,10,Minibar,110
